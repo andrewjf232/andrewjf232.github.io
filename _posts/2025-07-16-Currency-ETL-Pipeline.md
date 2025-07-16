@@ -24,7 +24,7 @@ The data flows through a simple, yet powerful, architecture:
 `Frontend (Setting Query Params)` -> `FastAPI Endpoint Backend (GET Request URL Creation)` -> `Polygon.IO API (Data Extraction)`  -> -> `FastAPI Backend (Transform GET Response)` -> `PostgreSQL/TimescaleDB (Loading Data)`
 
 ## Frontend Display
-![Frontend Display Screenshot](frontend.png)
+![Frontend Display](/images/frontend.png)
 
 ---
 
