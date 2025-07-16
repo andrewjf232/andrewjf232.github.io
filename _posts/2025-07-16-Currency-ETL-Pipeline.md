@@ -6,6 +6,10 @@ This project is a robust and automated ETL (Extract, Transform, Load) pipeline b
 
 The entire system is designed for high reliability, automation, and ease of maintenance, showcasing a practical application of data engineering principles.
 
+**Project Link:** [Curreny Data ETL Pipeline](https://github.com/Bettr-Trading/bettr.trading)
+**Note:** This is a private repository for security reasons. Please reach out to me for a demo. 
+
+
 ---
 
 ## Key Features
