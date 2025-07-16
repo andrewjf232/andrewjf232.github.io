@@ -35,3 +35,15 @@ The data flows through a simple, yet powerful, architecture:
 * **Cloud Provider**: Microsoft Azure
 * **Operating System**: Ubuntu (VM)
 * **API**: Polygon.IO REST API
+
+---
+
+## Sampled Result Data (Azure Postgresql + TimescaleDB)
+![DemoData Display](/images/demoData.jpeg)
+
+Sampling data showing Pair, Open , High , Low, Close and other currency information on the 1st January 2024.
+
+
+![timeframeData Display](/images/timeframeData.jpeg)
+
+Sample of total counts of 15_minute segments each day over the first month of 2022.
